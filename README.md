@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [Book Selling Website](https://github.com/SejalSune/Book-Shelf.git)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,React.Js,Node.Js,Express.Js,MongoDB**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.Js, Node.Js, Express.Js, MongoDB**
 
 - 📫 How to reach me **sunesejal@gmail.com**
 
