@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sejal Sune</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
-- 🔭 I’m currently working on [Ecom Website](https://github.com/SejalSune/Ecom-Website.git)
+- 🔭 I’m currently working on [Social media Website](https://connectogram.onrender.com/posts)
 
 - 🌱 I’m currently learning **Java**
 
-- 🤝 I’m looking for help with [Book Selling Website](https://github.com/SejalSune/Book-Shelf.git)
+- 🤝 I’m looking for help with [Book Selling Website](https://book-shelf-vo36.onrender.com/shelf)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React.Js, Node.Js, Express.Js, MongoDB**
+- 💬 Ask me about **HTML,CSS,JavaScript,React.Js,Node.Js,Express.Js,MongoDB**
 
 - 📫 How to reach me **sunesejal@gmail.com**
 
@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sejal sune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sejal sune" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sejalsune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sejalsune" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
